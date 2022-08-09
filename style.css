@@ -4,5 +4,9 @@ html, body {
 }
 
 .text {
-  color: red;
+  color: #baad17;
+}
+
+body {
+  background-color: red;
 }
